@@ -30,13 +30,13 @@ Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introdu
 
 | Passo | Ação do Usuário | Resultado Esperado |
 | :---: | :--- | :--- |
-| **01** | Introduzir utilizador válido no campo "Username" | O utilizador é inserido corretamente e o sistema não apresenta mensagem de erro. |
-| **02** | Introduzir a senha correta no campo "password" | Os caracteres inseridos são ocultados (ex: ••••••••). |
+| **01** | Introduzir utilizador `standard_user` no campo "Username" | O utilizador é inserido corretamente |
+| **02** | Inserir a senha 'secret_sauce' no campo "password" | a senha é inserida mascarada por segurança (ex: ••••••••). |
 | **03** | clicar no botão "Login" | O sistema processa a operação, valida dos dados e redireciona o utilizador para a pagina principal. |
 
 ---
 
 ## 🏁 Pós-condições
- * Usuário logado com sucesso! \
+ * Usuário logado com sucesso!
  (./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
  (./evidencias/test-cases/CT-001-Login-Sucesso-02.png)
