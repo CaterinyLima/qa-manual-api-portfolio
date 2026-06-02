@@ -39,4 +39,4 @@ Garantir que o sistema impeça o login e exiba uma mensagem de alerta quando o f
 
 ## 🏁 Pós-condições
 * O utilizador permanece retido na tela de login (acesso não autorizado).
-* [Ver Evidência](./evidencias/test-cases/CT-002-login-usuario-vazio.png)
+* (./evidencias/test-cases/CT-002-login-usuario-vazio.png)
