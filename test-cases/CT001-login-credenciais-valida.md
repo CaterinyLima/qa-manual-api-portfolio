@@ -1,11 +1,12 @@
 # 🧪 Caso de Teste: CT-001 - Login com credenciais válidas
 
 ## 📝 Descrição
-Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introduzir um nome de utilizador e uma palavra passe válida, sendo direcionado para a página principal.
+Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introduzir um nome de utilizador e uma palavra-passe válida, sendo direcionado para a página principal.
 
 ---
 
 ## ⚙️ Informações Gerais
+
 
 | Campo | Definição |
 | :--- | :--- |
@@ -18,7 +19,7 @@ Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introdu
 
 ## 🔍 Pré-condições
 1. O utilizador deve estar previamente registrado e com a conta ativa na base de dados.
-2. o navegador web deve estar aberto na página de login do sistema.
+2. O navegador web deve estar aberto na página de login do sistema.
 
 ## 📊 Dados de Teste (Massa de Dados)
 * **Username:** `standard_user`
@@ -28,19 +29,16 @@ Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introdu
 
 ## 🛠️ Passos de Execução & Resultados
 
+
 | Passo | Ação do Usuário | Resultado Esperado |
 | :---: | :--- | :--- |
-| **01** | Introduzir utilizador `standard_user` no campo "Username" | O utilizador é inserido corretamente |
-| **02** | Inserir a senha 'secret_sauce' no campo "password" | a senha é inserida mascarada por segurança (ex: ••••••••). |
-| **03** | clicar no botão "Login" | O sistema processa a operação, valida dos dados e redireciona o utilizador para a pagina principal. |
+| **01** | Introduzir o utilizador `standard_user` no campo "Username". | O utilizador é inserido corretamente. |
+| **02** | Inserir a senha `secret_sauce` no campo "Password". | A senha é inserida e mascarada por segurança (ex: ••••••••). |
+| **03** | Clicar no botão "Login". | O sistema processa a operação, valida os dados e redireciona o utilizador para a página principal. |
 
 ---
 
 ## 🏁 Pós-condições
- * Usuário logado com sucesso!
-<<<<<<< HEAD
- [Ver Evidência](./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
-=======
- (./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
->>>>>>> 852e5e51b2acb168bfb8cfb6d20f7b9dcc920716
- (./evidencias/test-cases/CT-001-Login-Sucesso-02.png)
+* O utilizador é autenticado com sucesso e mantido na sessão da página principal.
+* [Ver Evidência 01](./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
+* [Ver Evidência 02](./evidencias/test-cases/CT-001-Login-Sucesso-02.png)
