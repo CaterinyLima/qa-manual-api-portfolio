@@ -38,5 +38,9 @@ Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introdu
 
 ## 🏁 Pós-condições
  * Usuário logado com sucesso!
+<<<<<<< HEAD
  [Ver Evidência](./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
+=======
+ (./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
+>>>>>>> 852e5e51b2acb168bfb8cfb6d20f7b9dcc920716
  (./evidencias/test-cases/CT-001-Login-Sucesso-02.png)
