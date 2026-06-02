@@ -37,6 +37,6 @@
 ---
 
 ## 🏁 Pós-condições
-* [O utilizador é autenticado com sucesso e mantido na sessão da página principal.
+* [O utilizador é autenticado com sucesso e mantido na sessão da página principal.]
 * [Ver Evidência 01](./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
-* [Ver Evidência 02](./evidencias/test-cases/CT-001-Login-Sucesso-02.png)]
+* [Ver Evidência 02](./evidencias/test-cases/CT-001-Login-Sucesso-02.png)
