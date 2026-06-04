@@ -21,7 +21,7 @@ Garantir que o sistema impeça o login e exiba uma mensagem de alerta quando o f
 2. O navegador web deve estar aberto na página de login do sitema.
 
 ## Dados de teste (Massa de Dados)
-* **Usuário:** `locked_out_user`
+* **Usuário:** `standard_user`
 * **Senha:** [Vazio]
 
 ---
@@ -30,7 +30,7 @@ Garantir que o sistema impeça o login e exiba uma mensagem de alerta quando o f
 
 | Passo | Ação do usuário | Resultado Esperado |
 | :--- | :--- | :---|
-| **01** | Introduzir o utilizador `locked_out_user` no campo "Username". | O utiliazador é inserido corretamente. |
+| **01** | Introduzir o utilizador `standard_user` no campo "Username". | O utiliazador é inserido corretamente. |
 | **02** | Deixar o campo "*Password" em branco. | O campo permanece vazio e sem interações do sistema. | 
 | **03** | Clicar no botão "Login" | O sistema barra o acesso e exibe a mensagem: `Epic sadface: Password is required`.
 
