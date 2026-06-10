@@ -1,7 +1,7 @@
 # Caso de teste: CT-004 - Login com usuário invalido e senha correta.
 
 ## Descrição
-Garantir que, ao preencher o campo usuario com a credencial inexistente e o campo de senha com dados válidos, o acesso seja negado, mantendo o usiário na tela de autenticação e exibrindo uma mensagem de erro.
+Garantir que, ao preencher o campo usuario com a credencial inexistente e o campo de senha com dados válidos, o acesso seja negado, mantendo o usiário na tela de autenticação e exibindo uma mensagem de erro.
 
 ---
 
