@@ -38,4 +38,4 @@ Garantir que, ao preencher o campo usuario com a credencial inexistente e o camp
 
 ## Pós-condição
 * O utilizador permanece retido na tela de login (Acesso nao autorizado).
-* [Ver evidencia](./evidencias/test-cases/CT-004-login-usuario-invalido.png)
+* [Ver evidencia](./evidencias/CT-004-login-usuario-invalido.png)

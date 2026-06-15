@@ -38,5 +38,5 @@ Validar se o utilizador consegue autenticar-se com sucesso no sistema ao introdu
 
 ## Pós-condições
 * O utilizador é autenticado com sucesso e mantido na sessão da página principal.
-* [Ver Evidência 01](./evidencias/test-cases/CT-001-Login-Sucesso-01.png)  
-* [Ver Evidência 02](./evidencias/test-cases/CT-001-Login-Sucesso-02.png)
+* [Ver Evidência 01](./evidencias/CT-001-Login-Sucesso-01.png)  
+* [Ver Evidência 02](./evidencias/CT-001-Login-Sucesso-02.png)

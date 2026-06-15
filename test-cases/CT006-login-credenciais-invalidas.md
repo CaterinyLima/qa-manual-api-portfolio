@@ -37,4 +37,4 @@ Garantir que ao preencher o campo uruário e o campo senha com as credenciais in
 
 ## Pós-condição
 * O utilizador permanece retido na tela de login (Acesso não autorizado).
-* [ver evidencia](./evidencias/test-cases/CT-006-login-senha_e_usuario-invalidos.png)
+* [ver evidencia](./evidencias/CT-006-login-senha_e_usuario-invalidos.png)
